@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "app/package.json",
+        "package.json",
+        "plugins/cordova-plugin-browsersync/package.json",
+        "plugins/cordova-plugin-whitelist/package.json"
+      ]
+    }
+  }
+}
